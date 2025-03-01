@@ -1,6 +1,6 @@
 countBug = int(input("Напишиет сколько кейсов вы сделали за неделю : "))
 avg = countBug // 7
-if sred >= 10:
+if avg >= 10:
     print(f"Общее колличество кейсов за неделю : {countBug}")
     print("Отличная работа!")
 else:
